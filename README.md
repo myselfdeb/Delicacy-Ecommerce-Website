@@ -31,7 +31,6 @@ Check out the live demo of the project:
 ![Homepage](Responsive-Fruits-And-Vegetables-Website-Design/Screenshots/Screenshot4.png)
 
 
-*(Add relevant screenshots of your website for better understanding)*
 
 ## Installation
 
