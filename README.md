@@ -89,7 +89,7 @@ This project is licensed under the [MIT License](LICENSE).
 If you have any questions, feel free to reach out:
 
 - **Author**: Debangshu Roy  
-- **Email**: [your-email@example.com](mailto:debangshuroy1010111@gmail.com)  
+- **Email**: [debangshuroy1010111@gmail.com](mailto:debangshuroy1010111@gmail.com)  
 - **GitHub**: [myselfdeb](https://github.com/myselfdeb)
 
 ---
